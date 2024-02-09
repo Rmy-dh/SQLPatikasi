@@ -7,4 +7,4 @@ Bu projede SQL öğrenirken gerçekleştirmiş olduğum örnekler mevcuttur.
 
 * Mock data üretmek için [Mock Data](https://www.mockaroo.com/)  adresinden yararlanılmıştır.
 
-* Ayrıntılı bilgi için [Postqre Sql Tutorial](https://www.postgresqltutorial.com/) adresinden yararlana bilirsiniz.
+* Ayrıntılı bilgi için [Postqre Sql Tutorial](https://www.postgresqltutorial.com/) adresinden yararlanabilirsiniz.
